@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Inter Viagens</title>
+	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 03 Oct 2022 20:03:49 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Seoul</title>
+		<link>./../%inter-viagens%/index.html</link>
+					<comments>./../%inter-viagens%/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Rayanne]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 20:02:02 +0000</pubDate>
+				<category><![CDATA[Coréia do Sul]]></category>
+		<category><![CDATA[coreia do sul]]></category>
+		<category><![CDATA[Seoul]]></category>
+		<guid isPermaLink="false">./../index.html?p=39</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis condimentum, mi nec auctor tempor, dui velit porttitor purus, sit amet auctor libero ligula quis turpis. In sed maximus leo, at semper libero. Vivamus ultricies urna justo, ut laoreet dui faucibus quis. Vivamus ac urna eleifend, mollis turpis quis, imperdiet mi. Vestibulum ante ipsum primis in &#8230;<p class="read-more"> <a class="" href="./../%inter-viagens%/index.html"> <span class="screen-reader-text">Seoul</span> Leia mais &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p> </p>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis condimentum, mi nec auctor tempor, dui velit porttitor purus, sit amet auctor libero ligula quis turpis. In sed maximus leo, at semper libero. Vivamus ultricies urna justo, ut laoreet dui faucibus quis. Vivamus ac urna eleifend, mollis turpis quis, imperdiet mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Cras sed nisl sapien. Integer quis augue ac sem porta lacinia in in justo. Donec diam mi, congue ut lorem quis, varius lacinia leo. Ut dignissim massa dui, vitae tincidunt urna vulputate sed. Donec sodales tempor nisl eu pretium.</p>
+
+
+
+<p>Proin tempus massa nec iaculis suscipit. Curabitur in rutrum sem, at interdum nisl. Morbi consectetur ligula at turpis commodo imperdiet. Mauris vestibulum erat at turpis ullamcorper, ac efficitur odio maximus. Sed scelerisque ex vulputate porttitor porta. Integer id arcu diam. In non lectus eget sapien mattis malesuada mollis eu velit. Curabitur varius purus eu sodales porttitor. Phasellus aliquet, nisi at ultrices facilisis, velit lacus vestibulum nisl, et maximus lacus est nec purus. In hac habitasse platea dictumst. Donec et condimentum risus. Nulla finibus, magna convallis finibus euismod, odio est pharetra dolor, nec commodo nibh arcu quis eros.</p>
+
+
+
+<p>Cras accumsan at erat in volutpat. Integer molestie mauris ultricies leo accumsan facilisis. Nunc sagittis aliquam arcu. Vivamus id tempor nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In auctor urna sed tortor sodales, id pharetra magna auctor. Aliquam molestie ultricies sem, at iaculis enim vulputate ut. Nullam et mattis magna. Nunc feugiat id libero a malesuada. Quisque sit amet sodales tortor. Quisque gravida libero a ante bibendum, eget egestas arcu ultricies. Nullam id vehicula quam, id gravida sapien.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../%inter-viagens%/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>São Paulo</title>
+		<link>./../%inter-viagens%/index.html</link>
+					<comments>./../%inter-viagens%/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Rayanne]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 19:59:12 +0000</pubDate>
+				<category><![CDATA[Brasil]]></category>
+		<category><![CDATA[sao paulo]]></category>
+		<guid isPermaLink="false">./../index.html?p=5</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis condimentum, mi nec auctor tempor, dui velit porttitor purus, sit amet auctor libero ligula quis turpis. In sed maximus leo, at semper libero. Vivamus ultricies urna justo, ut laoreet dui faucibus quis. Vivamus ac urna eleifend, mollis turpis quis, imperdiet mi. Vestibulum ante ipsum primis in &#8230;<p class="read-more"> <a class="" href="./../%inter-viagens%/index.html"> <span class="screen-reader-text">São Paulo</span> Leia mais &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis condimentum, mi nec auctor tempor, dui velit porttitor purus, sit amet auctor libero ligula quis turpis. In sed maximus leo, at semper libero. Vivamus ultricies urna justo, ut laoreet dui faucibus quis. Vivamus ac urna eleifend, mollis turpis quis, imperdiet mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Cras sed nisl sapien. Integer quis augue ac sem porta lacinia in in justo. Donec diam mi, congue ut lorem quis, varius lacinia leo. Ut dignissim massa dui, vitae tincidunt urna vulputate sed. Donec sodales tempor nisl eu pretium.</p>
+
+
+
+<p>Proin tempus massa nec iaculis suscipit. Curabitur in rutrum sem, at interdum nisl. Morbi consectetur ligula at turpis commodo imperdiet. Mauris vestibulum erat at turpis ullamcorper, ac efficitur odio maximus. Sed scelerisque ex vulputate porttitor porta. Integer id arcu diam. In non lectus eget sapien mattis malesuada mollis eu velit. Curabitur varius purus eu sodales porttitor. Phasellus aliquet, nisi at ultrices facilisis, velit lacus vestibulum nisl, et maximus lacus est nec purus. In hac habitasse platea dictumst. Donec et condimentum risus. Nulla finibus, magna convallis finibus euismod, odio est pharetra dolor, nec commodo nibh arcu quis eros.</p>
+
+
+
+<p>Cras accumsan at erat in volutpat. Integer molestie mauris ultricies leo accumsan facilisis. Nunc sagittis aliquam arcu. Vivamus id tempor nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In auctor urna sed tortor sodales, id pharetra magna auctor. Aliquam molestie ultricies sem, at iaculis enim vulputate ut. Nullam et mattis magna. Nunc feugiat id libero a malesuada. Quisque sit amet sodales tortor. Quisque gravida libero a ante bibendum, eget egestas arcu ultricies. Nullam id vehicula quam, id gravida sapien.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../%inter-viagens%/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
